@@ -1,6 +1,8 @@
 ## Bienvenidos 👋
 
-![]()
+# Grupo de 2º de DAW - `Desarrollo en entorno cliente`
+
+![](/profile/boitumelo-6SZYEy4b5d0-unsplash.jpg)
 
 
 Foto de <a href="https://unsplash.com/es/@writecodenow?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Boitumelo</a> en <a href="https://unsplash.com/es/fotos/un-robot-en-un-escritorio-6SZYEy4b5d0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
